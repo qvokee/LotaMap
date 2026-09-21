@@ -1,0 +1,46 @@
+{
+  "item.lotamap.lich_prison_map_finder": "Lich Prison Explorer Map",
+  "item.lotamap.lich_prison_map_filled": "Map to Lich Prison",
+  "item.lotamap.lich_prison_map_not_founded": "No Lich Prison found nearby!",
+  "item.lotamap.structure_missing": "Structure not found or mod missing!",
+
+  "item.lotamap.kamath_ruins_map_finder": "The Ruins Of Kamath Explorer Map",
+  "item.lotamap.kamath_ruins_map_filled": "Map to The Ruins Of Kamath",
+  "item.lotamap.kamath_ruins_map_not_founded": "No The Ruins Of Kamath found nearby!",
+
+  "item.lotamap.sunleia_pantheon_map_finder": "The Pantheon Of Sunleia Explorer Map",
+  "item.lotamap.sunleia_pantheon_map_filled": "Map to The Pantheon Of Sunleia",
+  "item.lotamap.sunleia_pantheon_map_not_founded": "No The Pantheon Of Sunleia found nearby!",
+
+  "item.lotamap.underworld_arena_map_finder": "Underworld Arena Explorer Map",
+  "item.lotamap.underworld_arena_map_filled": "Map to Underworld Arena",
+  "item.lotamap.underworld_arena_map_not_founded": "No Underworld Arena found nearby!",
+
+  "item.lotamap.ice_maze_map_finder": "Ship Explorer Map",
+  "item.lotamap.ice_maze_map_filled": "Map to Ship",
+  "item.lotamap.ice_maze_map_not_founded": "No Ship found nearby!",
+
+  "item.lotamap.sun_temple_map_finder": "Overgrown Temple Explorer Map",
+  "item.lotamap.sun_temple_map_filled": "Map to Overgrown Temple",
+  "item.lotamap.sun_temple_map_not_founded": "No Overgrown Temple found nearby!",
+
+  "item.lotamap.deadly_crypt_map_finder": "Deadly Crypt Explorer Map",
+  "item.lotamap.deadly_crypt_map_filled": "Map to Deadly Crypt",
+  "item.lotamap.deadly_crypt_map_not_founded": "No Deadly Crypt found nearby!",
+
+  "item.lotamap.temple_of_duality_map_finder": "Temple Of Duality Explorer Map",
+  "item.lotamap.temple_of_duality_map_filled": "Map to Temple Of Duality",
+  "item.lotamap.temple_of_duality_map_not_founded": "No Temple Of Duality found nearby!",
+
+  "item.lotamap.sandworm_nest_map_finder": "Sandworm Nest Explorer Map",
+  "item.lotamap.sandworm_nest_map_filled": "Map to Sandworm Nest",
+  "item.lotamap.sandworm_nest_map_not_founded": "No Sandworm Nest found nearby!",
+
+  "item.lotamap.lab_ruins_map_finder": "Pipeline Explorer Map",
+  "item.lotamap.lab_ruins_map_filled": "Map to Pipeline",
+  "item.lotamap.lab_ruins_map_not_founded": "No Pipeline found nearby!",
+
+  "item.lotamap.forgotten_sands_map_finder": "The Forgotten Sands Explorer Map",
+  "item.lotamap.forgotten_sands_map_filled": "Map to The Forgotten Sands",
+  "item.lotamap.forgotten_sands_map_not_founded": "No The Forgotten Sands found nearby!"
+}

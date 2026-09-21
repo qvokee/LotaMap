@@ -1,0 +1,46 @@
+{
+  "item.lotamap.lich_prison_map_finder": "Карта поиска тюрьмы лича",
+  "item.lotamap.lich_prison_map_filled": "Карта к тюрьме лича",
+  "item.lotamap.lich_prison_map_not_founded": "Тюрьма лича не найдена поблизости!",
+  "item.lotamap.structure_missing": "Структура не найдена или мод отсутствует!",
+
+  "item.lotamap.kamath_ruins_map_finder": "Карта поиска Руин Каматха",
+  "item.lotamap.kamath_ruins_map_filled": "Карта к Руинам Каматха",
+  "item.lotamap.kamath_ruins_map_not_founded": "Руины Каматха не найдены поблизости!",
+
+  "item.lotamap.sunleia_pantheon_map_finder": "Карта поиска Пантеона Хранительницы Солнца",
+  "item.lotamap.sunleia_pantheon_map_filled": "Карта к Пантеону Хранительницы Солнца",
+  "item.lotamap.sunleia_pantheon_map_not_founded": "Пантеон не найден поблизости!",
+
+  "item.lotamap.underworld_arena_map_finder": "Карта поиска Рыцаря Преисподней",
+  "item.lotamap.underworld_arena_map_filled": "Карта к Рыцарю Преисподней",
+  "item.lotamap.underworld_arena_map_not_founded": "Арена не найдена поблизости! (Проверьте измерение)",
+
+  "item.lotamap.ice_maze_map_finder": "Карта поиска Ледяного Лабиринта",
+  "item.lotamap.ice_maze_map_filled": "Карта к Ледяному Лабиринту",
+  "item.lotamap.ice_maze_map_not_founded": "Ледяной Лабиринт не найден поблизости!",
+
+  "item.lotamap.sun_temple_map_finder": "Карта поиска Солнечного Храма",
+  "item.lotamap.sun_temple_map_filled": "Карта к Солнечному Храму",
+  "item.lotamap.sun_temple_map_not_founded": "Солнечный Храм не найден поблизости!",
+
+  "item.lotamap.deadly_crypt_map_finder": "Карта поиска Смертельного склепа",
+  "item.lotamap.deadly_crypt_map_filled": "Карта к Смертельному склепу",
+  "item.lotamap.deadly_crypt_map_not_founded": "Смертельный склеп не найден поблизости!",
+
+  "item.lotamap.temple_of_duality_map_finder": "Карта поиска Храма Технологий прошлого",
+  "item.lotamap.temple_of_duality_map_filled": "Карта к Храму Технологий прошлого",
+  "item.lotamap.temple_of_duality_map_not_founded": "Храм Технологий прошлого не найден поблизости!",
+
+  "item.lotamap.sandworm_nest_map_finder": "Карта поиска Пустынного гнезда",
+  "item.lotamap.sandworm_nest_map_filled": "Карта к Пустынному гнезду",
+  "item.lotamap.sandworm_nest_map_not_founded": "Пустынное гнездо не найдено поблизости!",
+
+  "item.lotamap.lab_ruins_map_finder": "Карта поиска Руин Лаборатории",
+  "item.lotamap.lab_ruins_map_filled": "Карта к Руинам Лаборатории",
+  "item.lotamap.lab_ruins_map_not_founded": "Руины Лаборатории не найдены поблизости! (Проверьте измерение)",
+
+  "item.lotamap.forgotten_sands_map_finder": "Карта поиска Забытых Песков",
+  "item.lotamap.forgotten_sands_map_filled": "Карта к Забытым Пескам",
+  "item.lotamap.forgotten_sands_map_not_founded": "Забытые Пески не найдены поблизости!"
+}
