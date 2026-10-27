@@ -20,6 +20,10 @@
   "item.lotamap.ice_maze_map_filled": "Map to Ship",
   "item.lotamap.ice_maze_map_not_founded": "No Ship found nearby!",
 
+  "item.lotamap.pirate_shelter_map_finder": "Pirate Shelter Explorer Map",
+  "item.lotamap.pirate_shelter_map_filled": "Map to Pirate Shelter",
+  "item.lotamap.pirate_shelter_map_not_founded": "No Pirate Shelter found nearby!",
+
   "item.lotamap.sun_temple_map_finder": "Overgrown Temple Explorer Map",
   "item.lotamap.sun_temple_map_filled": "Map to Overgrown Temple",
   "item.lotamap.sun_temple_map_not_founded": "No Overgrown Temple found nearby!",

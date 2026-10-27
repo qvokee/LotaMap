@@ -20,6 +20,10 @@
   "item.lotamap.ice_maze_map_filled": "Карта к Ледяному Лабиринту",
   "item.lotamap.ice_maze_map_not_founded": "Ледяной Лабиринт не найден поблизости!",
 
+  "item.lotamap.pirate_shelter_map_finder": "Карта поиска Пиратского убежища",
+  "item.lotamap.pirate_shelter_map_filled": "Карта к Пиратскому убежищу",
+  "item.lotamap.pirate_shelter_map_not_founded": "Пиратское убежище не найдено поблизости!",
+
   "item.lotamap.sun_temple_map_finder": "Карта поиска Солнечного Храма",
   "item.lotamap.sun_temple_map_filled": "Карта к Солнечному Храму",
   "item.lotamap.sun_temple_map_not_founded": "Солнечный Храм не найден поблизости!",

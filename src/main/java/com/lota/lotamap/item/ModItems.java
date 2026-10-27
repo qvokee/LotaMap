@@ -23,6 +23,9 @@ public class ModItems {
     public static final RegistryObject<Item> ICE_MAZE_MAP = ITEMS.register("ice_maze_map_finder",
             () -> new LotaMapItem(new Item.Properties().stacksTo(1), "aquamirae:pirate_ship", "ice_maze_map"));
 
+    public static final RegistryObject<Item> PIRATE_SHELTER_MAP = ITEMS.register("pirate_shelter_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "aquamirae:pirate_shelter", "pirate_shelter_map"));
+
     public static final RegistryObject<Item> SUN_TEMPLE_MAP = ITEMS.register("sun_temple_map_finder",
             () -> new LotaMapItem(new Item.Properties().stacksTo(1), "call_of_yucutan:overgrown_temple", "sun_temple_map"));
 
