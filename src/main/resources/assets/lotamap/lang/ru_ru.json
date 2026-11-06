@@ -46,5 +46,39 @@
 
   "item.lotamap.forgotten_sands_map_finder": "Карта поиска Забытых Песков",
   "item.lotamap.forgotten_sands_map_filled": "Карта к Забытым Пескам",
-  "item.lotamap.forgotten_sands_map_not_founded": "Забытые Пески не найдены поблизости!"
+  "item.lotamap.forgotten_sands_map_not_founded": "Забытые Пески не найдены поблизости!",
+
+  "item.lotamap.riza_cave_map_finder": "Карта поиска Пещеры Ризы",
+  "item.lotamap.riza_cave_map_filled": "Карта к Пещере Ризы",
+  "item.lotamap.riza_cave_map_not_founded": "Пещера Ризы не найдена поблизости!",
+
+  "item.lotamap.dark_skeleton_arena_map_finder": "Карта поиска Арены Тёмного Скелета",
+  "item.lotamap.dark_skeleton_arena_map_filled": "Карта к Арене Тёмного Скелета",
+  "item.lotamap.dark_skeleton_arena_map_not_founded": "Арена Тёмного Скелета не найдена поблизости!",
+
+  "item.lotamap.lifestealer_arena_map_finder": "Карта поиска Арены Похитителя Жизни",
+  "item.lotamap.lifestealer_arena_map_filled": "Карта к Арене Похитителя Жизни",
+  "item.lotamap.lifestealer_arena_map_not_founded": "Арена Похитителя Жизни не найдена поблизости!",
+
+  "item.lotamap.ice_spider_den_map_finder": "Карта поиска Пещеры Ледяного Паука",
+  "item.lotamap.ice_spider_den_map_filled": "Карта к Пещере Ледяного Паука",
+  "item.lotamap.ice_spider_den_map_not_founded": "Пещера Ледяного Паука не найдена поблизости!",
+
+  "item.lotamap.cryolite_castle_map_finder": "Карта поиска Криолитового Замка",
+  "item.lotamap.cryolite_castle_map_filled": "Карта к Криолитовому Замку",
+  "item.lotamap.cryolite_castle_map_not_founded": "Криолитовый Замок не найден поблизости!",
+
+  "item.lotamap.obsidilith_arena_map_finder": "Карта поиска Арены Обсидилита",
+  "item.lotamap.obsidilith_arena_map_filled": "Карта к Арене Обсидилита",
+  "item.lotamap.obsidilith_arena_map_not_founded": "Арена Обсидилита не найдена поблизости!",
+
+  "item.lotamap.blazing_fortress_map_finder": "Карта поиска Пламенного Форта",
+  "item.lotamap.blazing_fortress_map_filled": "Карта к Пламенному Форту",
+  "item.lotamap.blazing_fortress_map_not_founded": "Пламенный Форт не найден поблизости!",
+
+  "item.lotamap.bloody_church_map_finder": "Карта поиска Кровавой Церкви",
+  "item.lotamap.bloody_church_map_filled": "Карта к Кровавой Церкви",
+  "item.lotamap.bloody_church_map_not_founded": "Кровавая Церковь не найдена поблизости!",
+
+  "itemGroup.lotamap.maps": "Карты Lota"
 }

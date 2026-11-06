@@ -46,5 +46,39 @@
 
   "item.lotamap.forgotten_sands_map_finder": "The Forgotten Sands Explorer Map",
   "item.lotamap.forgotten_sands_map_filled": "Map to The Forgotten Sands",
-  "item.lotamap.forgotten_sands_map_not_founded": "No The Forgotten Sands found nearby!"
+  "item.lotamap.forgotten_sands_map_not_founded": "No The Forgotten Sands found nearby!",
+
+  "item.lotamap.riza_cave_map_finder": "Riza Cave Explorer Map",
+  "item.lotamap.riza_cave_map_filled": "Map to Riza Cave",
+  "item.lotamap.riza_cave_map_not_founded": "No Riza Cave found nearby!",
+
+  "item.lotamap.dark_skeleton_arena_map_finder": "Dark Skeleton Arena Explorer Map",
+  "item.lotamap.dark_skeleton_arena_map_filled": "Map to Dark Skeleton Arena",
+  "item.lotamap.dark_skeleton_arena_map_not_founded": "No Dark Skeleton Arena found nearby!",
+
+  "item.lotamap.lifestealer_arena_map_finder": "Lifestealer Arena Explorer Map",
+  "item.lotamap.lifestealer_arena_map_filled": "Map to Lifestealer Arena",
+  "item.lotamap.lifestealer_arena_map_not_founded": "No Lifestealer Arena found nearby!",
+
+  "item.lotamap.ice_spider_den_map_finder": "Ice Spider Den Explorer Map",
+  "item.lotamap.ice_spider_den_map_filled": "Map to Ice Spider Den",
+  "item.lotamap.ice_spider_den_map_not_founded": "No Ice Spider Den found nearby!",
+
+  "item.lotamap.cryolite_castle_map_finder": "Cryolite Castle Explorer Map",
+  "item.lotamap.cryolite_castle_map_filled": "Map to Cryolite Castle",
+  "item.lotamap.cryolite_castle_map_not_founded": "No Cryolite Castle found nearby!",
+
+  "item.lotamap.obsidilith_arena_map_finder": "Obsidilith Arena Explorer Map",
+  "item.lotamap.obsidilith_arena_map_filled": "Map to Obsidilith Arena",
+  "item.lotamap.obsidilith_arena_map_not_founded": "No Obsidilith Arena found nearby!",
+
+  "item.lotamap.blazing_fortress_map_finder": "Blazing Fortress Explorer Map",
+  "item.lotamap.blazing_fortress_map_filled": "Map to Blazing Fortress",
+  "item.lotamap.blazing_fortress_map_not_founded": "No Blazing Fortress found nearby!",
+
+  "item.lotamap.bloody_church_map_finder": "Bloody Church Explorer Map",
+  "item.lotamap.bloody_church_map_filled": "Map to Bloody Church",
+  "item.lotamap.bloody_church_map_not_founded": "No Bloody Church found nearby!",
+
+  "itemGroup.lotamap.maps": "Lota Maps"
 }

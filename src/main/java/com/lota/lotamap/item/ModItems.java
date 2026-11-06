@@ -47,6 +47,29 @@ public class ModItems {
     public static final RegistryObject<Item> FORGOTTEN_SANDS_MAP = ITEMS.register("forgotten_sands_map_finder",
             () -> new LotaMapItem(new Item.Properties().stacksTo(1), "dungeons_and_combat:the_forgotten_sands", "forgotten_sands_map"));
 
+    public static final RegistryObject<Item> RIZA_CAVE_MAP = ITEMS.register("riza_cave_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "lotadungeon:nightmare_forest/floor_2/boss_arena", "riza_cave_map"));
+
+    public static final RegistryObject<Item> DARK_SKELETON_ARENA_MAP = ITEMS.register("dark_skeleton_arena_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "lotadungeon:nightmare_forest/floor_1/boss_arena", "dark_skeleton_arena_map"));
+
+    public static final RegistryObject<Item> LIFESTEALER_ARENA_MAP = ITEMS.register("lifestealer_arena_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "lotadungeon:pole_zabytyh_dush/lifestealer_arena", "lifestealer_arena_map"));
+
+    public static final RegistryObject<Item> ICE_SPIDER_DEN_MAP = ITEMS.register("ice_spider_den_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "irons_spellbooks:ice_spider_den", "ice_spider_den_map"));
+
+    public static final RegistryObject<Item> CRYOLITE_CASTLE_MAP = ITEMS.register("cryolite_castle_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "lota:cryolitecastle", "cryolite_castle_map"));
+
+    public static final RegistryObject<Item> OBSIDILITH_ARENA_MAP = ITEMS.register("obsidilith_arena_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "bosses_of_mass_destruction:obsidilith_arena", "obsidilith_arena_map"));
+
+    public static final RegistryObject<Item> BLAZING_FORTRESS_MAP = ITEMS.register("blazing_fortress_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "dungeons_and_combat:blazing_fortress", "blazing_fortress_map"));
+
+    public static final RegistryObject<Item> BLOODY_CHURCH_MAP = ITEMS.register("bloody_church_map_finder",
+            () -> new LotaMapItem(new Item.Properties().stacksTo(1), "dungeons_and_combat:the_church", "bloody_church_map"));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
